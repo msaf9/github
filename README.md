@@ -70,3 +70,4 @@ cd GitHub
 ```
 
 ## License
+[MIT License](LICENSE)
