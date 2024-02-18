@@ -65,8 +65,8 @@ git reset
 ## Installation
 ### Get repository
 ```git
-git clone https://github.com/msaf9/GitHub.git
-cd GitHub
+git clone https://github.com/msaf9/github.git
+cd github
 ```
 
 ## License
