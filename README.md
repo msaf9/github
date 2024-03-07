@@ -1,15 +1,16 @@
-# GitHub
+<h1> GitHub </h1>
 GitHub Udemy Course Hands-on.
 
-- [GitHub](#github)
-  - [Introduction](#introduction)
-    - [Course](#course)
-    - [Commands](#commands)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
+<h2>Table of contents</h2>
+
+- [Introduction](#introduction)
+  - [Course](#course)
+  - [Commands](#commands)
+- [VCS](#vcs)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+- [License](#license)
 
 ## Introduction
 GitHub repository is created for learning purposes. For getting some hands-on experience working with Distributed Version Control System namely Git and Hosting service, GitHub. 
@@ -55,7 +56,7 @@ git merge
 ```git
 git reset
 ```
-## Technologies
+## VCS
 - Git
 - GitHub
 
